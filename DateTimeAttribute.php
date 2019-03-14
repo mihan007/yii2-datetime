@@ -3,7 +3,7 @@
 namespace omnilight\datetime;
 
 use yii\base\Arrayable;
-use yii\base\Object;
+use yii\base\BaseObject;
 use yii\helpers\FormatConverter;
 
 
